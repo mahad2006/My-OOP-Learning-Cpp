@@ -21,19 +21,20 @@ This repository is designed not only as a **learning resource** for me but also 
 ---
 
 ## 🗂 Folder Structure  
-```text
-01-Basics/ # Classes, Constructors, Static Members, Const Keyword, Object Passing
-02-Encapsulation/ # Encapsulation, Access Modifiers, Getters/Setters
-03-Abstraction/ # Abstract Classes, Pure Virtual Functions, Data Hiding
-04-Inheritance/ # All Types of Inheritance + Composition vs Aggregation
-05-Polymorphism/ # Compile-time & Runtime Polymorphism, Virtual Functions
-06-Friend-Functions/ # Friend Functions & Friend Classes
-07-Operator-Overloading/ # Unary, Binary, Friend-based Overloading
-08-Templates/ # Function & Class Templates + Specialization
-09-Exception-Handling/ # Error Handling in OOP Style
-10-Advanced-OOP/ # Smart Pointers, File Handling, Rule of Three/Five, Namespaces
-```
 
+```bash
+OOP-Cpp-Repo/
+├── 01-Basics/                # Classes, Constructors, Static Members, Const Keyword, Object Passing
+├── 02-Encapsulation/         # Encapsulation, Access Modifiers, Getters/Setters
+├── 03-Abstraction/           # Abstract Classes, Pure Virtual Functions, Data Hiding
+├── 04-Inheritance/           # All Types of Inheritance + Composition vs Aggregation
+├── 05-Polymorphism/          # Compile-time & Runtime Polymorphism, Virtual Functions
+├── 06-Friend-Functions/      # Friend Functions & Friend Classes
+├── 07-Operator-Overloading/  # Unary, Binary, Friend-based Overloading
+├── 08-Templates/             # Function & Class Templates + Specialization
+├── 09-Exception-Handling/    # Error Handling in OOP Style
+└── 10-Advanced-OOP/          # Smart Pointers, File Handling, Rule of Three/Five, Namespaces
+```
 
 ---
 
@@ -122,3 +123,12 @@ If you find this helpful:
 - 🖇 **Share it with fellow learners**  
 - 💻 **Contribute by adding more examples**  
 
+---
+
+## 🌟 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/codewithmahad)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/mahad2006)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=firefox)](https://www.linkedin.com/in/codewithmahad)  
+
+---
